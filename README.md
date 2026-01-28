@@ -104,7 +104,7 @@ Take a look at the Power BI dashboard screenshots:
 *Figure 1: Overview of sales performance and KPIs*
 
 ![Customer Insights](Dashboards/Page2.png)  
-*Figure 2: Customer behavior  *
+*Figure 2: Customer behavior*
 
 ![Product & Operations Insights](Dashboards/Page3.png)  
 *Figure 3: Product & Operations Insights*
