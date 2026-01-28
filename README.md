@@ -100,14 +100,15 @@ Evaluates product performance and operational efficiency:
 
 ## 📊 Dashboard Preview
 Take a look at the Power BI dashboard screenshots:
-![Dashboard Overview](Dashboard/A1.png)  
+![Dashboard Overview](Dashboards/Page1.png)  
 *Figure 1: Overview of sales performance and KPIs*
 
-![Customer Insights](dashboard/A2.png)  
+![Customer Insights](Dashboards/Page2.png)  
 *Figure 2: Customer behavior  *
 
-![Product & Operations Insights](dashboard/A2.png)  
+![Product & Operations Insights](Dashboards/Page3.png)  
 *Figure 3: Product & Operations Insights*
+
 ---
 
 ## 🎯 Conclusion
